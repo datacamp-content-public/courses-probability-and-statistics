@@ -1,4 +1,9 @@
 title: Foundations of Data Science
-description: Course description goes here.
+description: >-
+  Foundations of Data Science combines an introductory look into the fundamental
+  skills and concepts of computer programming and inferential statistics with
+  hands-on experience in analyzing datasets by using common tools within the
+  industry. Additionally, the course investigates ethical issues surrounding
+  Data Science, such as data privacy.
 programming_language: r
 from: 'r-base-prod:v1.0.2'
