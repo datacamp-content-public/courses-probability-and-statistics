@@ -1,1 +1,1 @@
-# courses-probability-and-statistics
+# courses-foundation-of-data-science
